@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra("name",name)
             startActivity(intent)
 
+
         }
     }
 }
